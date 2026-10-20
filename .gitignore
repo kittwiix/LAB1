@@ -1,9 +1,7 @@
 .vs/
 .idea/
 .venv/
+venv/
 __pycache__/
 .pytest_cache/
 *.pyc
-_build_report.py
-_report_assets/
-_tmp_*.txt
