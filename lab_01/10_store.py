@@ -39,8 +39,6 @@ store = {
 # Пример:
 #   Лампа - 27 шт, стоимость 1134 руб
 
-# TODO здесь ваш код
-
 
 def stock_totals(goods_map, batches):
     totals = {}

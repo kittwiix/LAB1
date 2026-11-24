@@ -15,7 +15,6 @@ def example_value():
     return (1 + 2) * 3
 
 
-# TODO написать формулу для 1 2 3 4 5 и вывести значение на консоль
 def value_twenty_five():
     return 1 * (2 + 3) * 4 + 5
 
